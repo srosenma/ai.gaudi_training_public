@@ -10,9 +10,9 @@ ssh demo@198.175.88.52
 
 ```
 
-* Attach to tmux session:
+* Attach to tmux session (change <ID> to your number):
 ```
-tmux new-session -s notebook_2
+tmux new-session -s notebook_<ID>
 ```
 
 * Enter the container:
@@ -47,7 +47,7 @@ ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -
 
 
 
-* Go to the 'notebooks' folder, and open your personal 'finetune_bridgetower_ID' notebook 😃
+* Go to the 'notebooks' folder, and open your personal 'finetune_bridgetower_ID' notebook  (change <ID> to your number) 😃
 
 
 
