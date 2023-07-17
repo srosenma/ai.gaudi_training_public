@@ -47,7 +47,7 @@ ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -
 
 
 
-* Go to the `notebooks` folder, and open your personal `finetune_bridgetower_<ID>` notebook  (change `<ID>` to your number) 😃
+* Open your personal `finetune_bridgetower_<ID>.ipynb` notebook  (change `<ID>` to your number) 😃
 
 
 
