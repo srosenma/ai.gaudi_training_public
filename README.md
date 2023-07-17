@@ -36,7 +36,7 @@ jupyter notebook --port=15566 --ip 0.0.0.0 --allow-root
 
 * Connect to devcloud with port-forwarding (From your local machine):
 ```
-ssh -L 15566:127.0.0.1:15566 demo@198.175.88.52
+ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -L 15569:127.0.0.1:15569 demo@198.175.88.52
 ```
 
 * Open the following link in your browser:
