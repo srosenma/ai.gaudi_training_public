@@ -1,4 +1,4 @@
-# Train BridgeTower on Habana Gaudi2
+![image](https://github.com/srosenma/ai.gaudi_training_public/assets/99334404/cca9ea99-8347-4632-a55d-88f5eed05b4a)# Train BridgeTower on Habana Gaudi2
 
 ### Instructions
 1.  Run the notebook:
@@ -39,7 +39,8 @@ jupyter notebook --port=15566 --ip 0.0.0.0 --allow-root
 ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -L 15569:127.0.0.1:15569 demo@198.175.88.52
 ```
 
-* Open the following link in your browser:
+* Copy the link the it gives you and open the link in your browser.
+  For example:
 ```
 http://127.0.0.1:15566/
 ```
