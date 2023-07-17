@@ -22,7 +22,7 @@ docker exec -it BT_workshop bash
 
 * Change directory to:
 ```
-cd ai.gaudi_training
+cd ai.gaudi_training/notebooks
 ```
 
 * Launch Jupyter Notebook:
