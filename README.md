@@ -40,6 +40,7 @@ ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -
 ```
 
 * Copy the link that it provides and open it in your browser. 
+
   For example:
   
   ![OpenAI Logo](example.jpeg)
