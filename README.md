@@ -39,7 +39,7 @@ jupyter notebook --port=15566 --ip 0.0.0.0 --allow-root
 ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -L 15569:127.0.0.1:15569 demo@198.175.88.52
 ```
 
-* Copy the link the it gives you and open the link in your browser.
+* Copy the link that it provides and open it in your browser. 
   For example:
   
   ![OpenAI Logo](example.jpeg)
