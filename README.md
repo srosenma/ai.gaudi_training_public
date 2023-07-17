@@ -45,6 +45,10 @@ ssh -L 15566:127.0.0.1:15566 -L 15567:127.0.0.1:15567 -L 15568:127.0.0.1:15568 -
   ![OpenAI Logo](example.jpeg)
 
 
+* Go to the 'notebooks' folder, and open your personal 'finetune_bridgetower_ID' notebook
+
+
+
 # Links
 
 [optimum-habana](https://github.com/huggingface/optimum-habana/blob/main/examples/contrastive-image-text/run_bridgetower.py)
