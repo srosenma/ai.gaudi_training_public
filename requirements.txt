@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+torch
+torchvision
+Pillow
+opencv-python
+faiss-cpu
+optimum[habana]
+notebook
